@@ -1,0 +1,11 @@
+.idea
+
+logs
+tmp
+data
+trash
+*.npy
+*.png
+*.sh
+
+
